@@ -1,0 +1,1 @@
+Image folder nested within the pages to facilitate the animation script and not having to rewrite the lovely adobe work.

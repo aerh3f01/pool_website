@@ -1,0 +1,29 @@
+footer {
+    background-image: linear-gradient(to left, lightblue, midnightblue);
+    color: white;
+}
+.navbar {
+    background-image: linear-gradient(to left, lightblue, midnightblue);
+    color: white;
+}
+
+nav a:link, a:visited {
+    color: white;
+    padding: 1px 1px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+footer a:link, a:visited {
+    color: white;
+    padding: 1px 1px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.footer {
+    align-items: bottom;
+    height: 10vh;
+}

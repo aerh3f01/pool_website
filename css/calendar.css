@@ -1,0 +1,80 @@
+/* Calendar Styling */
+#cal-holder {
+    position: relative;
+    margin: 0 auto;
+    
+}
+#calendar {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    text-align: center;
+    border: 1px solid;
+    border-color: midnightblue;
+}
+
+
+.calendar-day {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.has-event {
+    background-color: lightgreen; /* Highlight days with events */
+}
+
+.today {
+    background-color: yellow; /* Highlight today's date */
+}
+
+.calendar-header {
+    grid-column: span 7;
+    background-image: linear-gradient(to right, lightblue, midnightblue);
+    color: lightgray;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* No Event Popup */
+.no-event-popup {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    z-index: 1000;
+}
+.no-event-close-btn {
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.no-event-header {
+    position: relative;
+}
+
+/* Event Popup */
+.event-popup {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    z-index: 1000;
+}
+
+.popup-close-btn {
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.popup-header {
+    position: relative;
+}

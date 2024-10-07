@@ -1,0 +1,48 @@
+.cookie-consent-modal {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: lightgray;
+    display: none;
+    z-index: 1000;
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+    text-align: center;
+}
+
+.content a {
+    color: blue;
+}
+.content p {
+    margin: 10px 0;
+}
+
+.btn-accept, .btn-decline {
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 25px; 
+}
+
+.btn-accept {
+    background-color: white; 
+    color: black; 
+    border: 2px solid blue; 
+}
+
+.btn-decline {
+    background-color: white;
+    color: black;
+    border: 2px solid blue; 
+}
+
+.btn-accept:hover, .btn-decline:hover {
+    background-color: #ddd; 
+}

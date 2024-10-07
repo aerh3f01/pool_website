@@ -1,0 +1,133 @@
+[
+    {
+        "id": 1,
+        "name": "Professional Racing Goggles",
+        "description": "Anti-fog, UV protection, and leak-proof goggles designed for competitive swimmers.",
+        "price": 25,
+        "category": "Accessories",
+        "image": "https://photos.cdn-outlet.com/images/cms/image/alexi/goggle.jpg",
+        "stock": 2,
+        "rating": 2.5
+    },
+    {
+        "id": 2,
+        "name": "Womens Swimsuit - One Piece",
+        "description": "Comfortable and durable one-piece swimsuit for women, ideal for training and regular pool use.",
+        "price": 40,
+        "category": "Swimwear",
+        "image": "https://myswimshop.co.uk/wp-content/uploads/2020/12/LS61TT88_afront__67225.1626096160.600.600-580x580.jpg",
+        "stock": 2,
+        "rating": 3
+    },
+    {
+        "id": 3,
+        "name": "Mens Swim Trunks",
+        "description": "Lightweight and quick-drying swim trunks for men, perfect for both beach and pool.",
+        "price": 35,
+        "category": "Swimwear",
+        "image": "https://atlas-content-cdn.pixelsquid.com/stock-images/men-swim-trunks-lXN1zX7-600.jpg",
+        "stock": 3,
+        "rating": 3.8
+    },
+    {
+        "id": 4,
+        "name": "Silicone Swim Cap",
+        "description": "High-quality silicone swim cap, suitable for both recreational and competitive swimmers.",
+        "price": 10,
+        "category": "Accessories",
+        "image": "https://johnlewis.scene7.com/is/image/JohnLewis/230558493?$rsp-pdp-port-640$",
+        "stock": 0,
+        "rating": 4
+    },
+    {
+        "id": 5,
+        "name": "Swim Training Fins",
+        "description": "Ergonomically designed swim fins to enhance your leg strength and swimming techniques.",
+        "price": 30,
+        "category": "Equipment",
+        "image": "https://www.watersportswarehouse.co.uk/cdn/shop/products/450001-head-soft-swim-training-fins_Lime.jpg?v=1671023501",
+        "stock": 25,
+        "rating": 3
+    },
+    {
+        "id": 6,
+        "name": "Swimming Kickboard",
+        "description": "Durable and buoyant kickboard, ideal for swim training to improve leg strength and kicking technique.",
+        "price": 20,
+        "category": "Equipment",
+        "image": "https://i.ebayimg.com/images/g/u9MAAOSwLudih5hu/s-l400.png",
+        "stock": 40,
+        "rating": 3.4
+    },
+    {
+        "id":12,
+        "name":"Lunchbox",
+        "description": "A retro lunchbox, perfect for storing all your yogurt! A must have item!",
+        "price": 999,
+        "category": "Retro",
+        "image": "/images/products/Spaceballs_Lunchbox_1200x.webp",
+        "stock": 30,
+        "rating": 5,
+        "link": "https://www.youtube.com/watch?v=qAGuYr3hpR4"
+    },
+    {
+        "id": 7,
+        "name": "Waterproof Swimming Bag",
+        "description": "Large capacity, waterproof bag to carry all your swimming gear and personal items.",
+        "price": 50,
+        "category": "Accessories",
+        "image": "https://www.bagsdirect.co.uk/getfile/tn/42/pad/1/historic/CL-927S%20Green.jpg",
+        "stock": 18,
+        "rating": 3.5
+    },
+    {
+        "id": 8,
+        "name": "Nose Clip and Ear Plugs Set",
+        "description": "Comfortable and secure nose clip and ear plugs set, ensuring a water-free experience.",
+        "price": 8,
+        "category": "Accessories",
+        "image": "https://down-sg.img.susercontent.com/file/103ccd34f976baa8ad4b6e61856b34aa",
+        "stock": 45,
+        "rating": 1.5
+    },
+    {
+        "id": 9,
+        "name": "Childrens Swimming Vest",
+        "description": "Safe and adjustable swimming vest for children, providing buoyancy and confidence in the water.",
+        "price": 45,
+        "category": "Equipment",
+        "image": "https://media.istockphoto.com/id/1469963265/vector/realistic-vector-orange-life-vest-with-black-buckles-isolated-illustration-icon-on-white.jpg?s=612x612&w=0&k=20&c=mbzCutrz8z1dTM3LWJtIVKH5EFqO5WU0hc54NrHm9qQ=",
+        "stock": 20,
+        "rating": 2.5
+    },
+    {
+        "id": 10,
+        "name": "UV Protection Swimming Long Sleeve Shirt",
+        "description": "A simple shirt providing UV protection, suitable for outdoor swimming and water sports.",
+        "price": 15,
+        "category": "Accessories",
+        "image": "https://cdn11.bigcommerce.com/s-g4ufd5e/images/stencil/1280x1280/products/449/1430/tuga-mens-long-sleeve-swim-short-black__18247.1522489480.jpg?c=2",
+        "stock": 35,
+        "rating": 4.0
+    },
+    {
+        "id": 11,
+        "name": "Swimming Pool Float",
+        "description": "Fun and colorful pool float, perfect for relaxation and leisure time in the pool.",
+        "price": 20,
+        "category": "Equipment",
+        "image": "https://images.unsplash.com/photo-1506359585186-16ff29581308?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cG9vbCUyMGZsb2F0fGVufDB8fDB8fHww",
+        "stock": 10,
+        "rating": 3.5
+    },
+    {
+        "id": 12,
+        "name": "Underwater Camera",
+        "description": "Waterproof underwater camera, designed to capture your underwater adventures in high definition.",
+        "price": 120,
+        "category": "Electronics",
+        "image": "https://media.istockphoto.com/id/183857111/photo/underwater-camera.jpg?s=612x612&w=0&k=20&c=-y0gN-UQExeaZb_rLk7G4BUqpZQ7laJ6sF26HstOZts=",
+        "stock": 2,
+        "rating": 4.5
+    }
+]

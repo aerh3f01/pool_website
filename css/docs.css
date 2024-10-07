@@ -1,0 +1,9 @@
+main {
+    color: black;
+    height: 75vh!important;
+    width: auto;
+}
+
+main a{
+    color: blue!important;
+}

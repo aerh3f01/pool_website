@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "timestamp": 1707231600,
+        "category": "class",
+        "title": "Swim Classes",
+        "age": "5-7",
+        "location": "Pool",
+        "duration": 60
+    },
+    {
+        "id": 2,
+        "timestamp": 1707318000,
+        "category": "class",
+        "title": "Swim Classes",
+        "age": "8-14",
+        "location": "Pool",
+        "duration": 60
+    },
+    {
+        "id": 3,
+        "timestamp": 1707480000,
+        "category": "training",
+        "title": "Life Guard Training",
+        "age": "18+",
+        "location": "Training Room",
+        "duration": 120
+    },
+    {
+        "id": 4,
+        "timestamp": 1708084800,
+        "category": "class",
+        "title": "Advanced Swim Techniques",
+        "age": "12-18",
+        "location": "Pool",
+        "duration": 90
+    },
+    {
+        "id": 5,
+        "timestamp": 1708689600,
+        "category": "training",
+        "title": "CPR and First Aid",
+        "age": "18+",
+        "location": "Community Center",
+        "duration": 180
+    },
+    {
+        "id": 6,
+        "timestamp": 1709294400,
+        "category": "class",
+        "title": "Advanced Swim Techniques",
+        "age": "12-18",
+        "location": "Pool",
+        "duration": 90
+    },
+    {
+        "id": 7,
+        "timestamp": 1709899200,
+        "category": "training",
+        "title": "CPR and First Aid",
+        "age": "18+",
+        "location": "Community Center",
+        "duration": 180
+    },
+    {
+        "id": 8,
+        "timestamp": 1710504000,
+        "category": "class",
+        "title": "Advanced Swim Techniques",
+        "age": "12-18",
+        "location": "Pool",
+        "duration": 90
+    },
+    {
+        "id": 9,
+        "timestamp": 1711108800,
+        "category": "training",
+        "title": "CPR and First Aid",
+        "age": "18+",
+        "location": "Community Center",
+        "duration": 180
+    },
+    {
+        "id": 10,
+        "timestamp": 1711713600,
+        "category": "class",
+        "title": "Advanced Swim Techniques",
+        "age": "12-18",
+        "location": "Pool",
+        "duration": 90
+    },
+    {
+        "id": 11,
+        "timestamp": 1712318400,
+        "category": "training",
+        "title": "CPR and First Aid",
+        "age": "18+",
+        "location": "Community Center",
+        "duration": 180
+    },
+    {
+        "id": 12,
+        "timestamp": 1712923200,
+        "category": "class",
+        "title": "Advanced Swim Techniques",
+        "age": "12-18",
+        "location": "Pool",
+        "duration": 90
+    },
+    {
+        "id": 13,
+        "timestamp": 1713528000,
+        "category": "training",
+        "title": "CPR and First Aid",
+        "age": "18+",
+        "location": "Community Center",
+        "duration": 180
+    },
+    {
+        "id": 14,
+        "timestamp": 1714132800,
+        "category": "class",
+        "title": "Advanced Swim Techniques",
+        "age": "12-18",
+        "location": "Pool",
+        "duration": 90
+    }
+]
